@@ -1,0 +1,114 @@
+html {
+    font-size: 16px;
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0rem 2rem;
+    background-color: pink;
+}
+img{
+    max-width: 100%;
+}
+
+header img{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+main {
+    
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+header {
+    padding: 2rem 1rem;            
+}
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f490bf;
+   
+}
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: clamp(0.25rem, 3vw, 2rem);
+}
+
+.nav-links a{
+    text-decoration: none;
+    color: black;
+    padding: 0.5rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+.contact-container img{
+    max-width: 32rem;
+}
+.h1-contact {
+    text-align: left;
+}
+
+.hero {
+    width: 100%;
+    object-fit: cover;
+    height: 250px;
+}
+.products-container{
+    display: flex;
+    justify-content: space-between;
+    gap: clamp(0.75rem, 3vw, 1.5rem);
+}
+
+.card h2{
+    font-size: 16px;
+}
+
+.card img {
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+}
+
+
+.card-caption {
+    font-size: 14px;
+    color: #222;
+    font-style: italic;     
+    margin-top: 0px;
+}
+.card{
+    background-color: #f490bf;
+    padding: 1rem;
+}
+@media (max-width: 600px) {
+    .contact-container {
+        flex-direction: column;   
+    }
+}
+@media (max-width: 768px) {
+    .products-container {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 0 1rem;
+    }
+    .nav-links a {
+        padding: 0.5rem 0.4rem;
+        font-size: 0.9rem;
+    }
+}

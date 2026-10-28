@@ -1,0 +1,30 @@
+# Software 2 - Web development assignments
+
+**Nguyen Minh Nga**
+
+One folder per module, and one folder per assignment inside it (`js-1-2/assignment-1/assignment-1.html` and `assignment-1.js`; JS module 4 uses the starter ZIP's names),
+as the course material asks. Upload the module folders to users.metropolia.fi and push this folder to GitHub.
+
+## My links at users.metropolia.fi
+
+- HTML and CSS: https://users.metropolia.fi/~username/html-css/
+- JS modules 1 and 2: https://users.metropolia.fi/~username/js-1-2/
+- JS module 3: https://users.metropolia.fi/~username/js-3/
+- JS module 4: https://users.metropolia.fi/~username/js-4/
+- JS module 5: https://users.metropolia.fi/~username/js-5/
+
+Add notes about any problems or extra features here.
+
+<!-- metropolia:progress:start -->
+
+## Completed exercises
+
+_This list is updated automatically by the Metropolia ICT extension._
+
+### HTML and CSS: company website (6.55 / 8 points)
+
+- 1. Company website: ✔ completed, 4/4 test points (`html-css/index.html`)
+- 2. Get feedback from the HTML+CSS checker: ✔ completed, 1/1 test points (`html-css/`)
+- 3. Publish, push and submit your links: ◐ partially completed, 1.55/3 test points
+
+<!-- metropolia:progress:end -->
