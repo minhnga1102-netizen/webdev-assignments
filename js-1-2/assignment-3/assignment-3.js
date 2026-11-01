@@ -1,4 +1,4 @@
-"use Strict";
+"use strict";
 
 const num1 = parseInt(prompt("Enter the first integer: "));
 const num2 = parseInt(prompt("Enter the second integer: "));
