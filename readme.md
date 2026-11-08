@@ -9,6 +9,7 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 
 - HTML and CSS: https://users.metropolia.fi/~minnann/html-css
 - JS modules 1 and 2: https://users.metropolia.fi/~minnann/js-1-2/
+- JS module 3: https://users.metropolia.fi/~minnann/js-3/
 
 Add notes about any problems or extra features here.
 
@@ -37,5 +38,13 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
+
+### JS module 3: Arrays and functions (10 / 30 points)
+
+- 1. Numbers in reverse order: ✔ completed, 2/2 test points (`js-3/assignment-1/assignment-1.js`)
+- 2. Participants in alphabetical order: ✔ completed, 2/2 test points (`js-3/assignment-2/assignment-2.js`)
+- 3. Dogs in reverse alphabetical order: ✔ completed, 2/2 test points (`js-3/assignment-3/assignment-3.js`)
+- 4. Largest first: ✔ completed, 2/2 test points (`js-3/assignment-4/assignment-4.js`)
+- 5. Stop at a repeated number: ✔ completed, 2/2 test points (`js-3/assignment-5/assignment-5.js`)
 
 <!-- metropolia:progress:end -->
