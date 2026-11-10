@@ -1,2 +1,2 @@
 https://users.metropolia.fi/~minnann/js-3/
-https://github.com/minhnga1102-netizen/webdev-assignments/tree/main/js-3
+https://github.com/minhnga1102-netizen/webdev-assignments
