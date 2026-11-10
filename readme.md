@@ -53,4 +53,17 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Voting: ✔ completed, 8/8 test points (`js-3/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
+### JS module 4: DOM and events (26 / 35 points)
+
+- 1. Add a list with innerHTML: ✔ completed, 2/2 test points (`js-4/t1/1.js`)
+- 2. Add a list with createElement(): ✔ completed, 2/2 test points (`js-4/t2/2.js`)
+- 3. A list from an array: ✔ completed, 2/2 test points (`js-4/t3/3.js`)
+- 4. Options from an array of objects: ✔ completed, 2/2 test points (`js-4/t4/4.js`)
+- 5. Picture cards: ✔ completed, 5/5 test points (`js-4/t5/5.js`)
+- 6. Button click: ✔ completed, 1/1 test points (`js-4/t6/6.js`)
+- 7. Hover effect: ✔ completed, 2/2 test points (`js-4/t7/7.js`)
+- 8. Calculator: ✔ completed, 4/4 test points (`js-4/t8/8.js`)
+- 9. Calculator with one field: ✔ completed, 4/4 test points (`js-4/t9/9.js`)
+- 10. Read a form: ✔ completed, 2/2 test points (`js-4/t10/10.js`)
+
 <!-- metropolia:progress:end -->
