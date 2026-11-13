@@ -69,4 +69,10 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Read a form: ✔ completed, 2/2 test points (`js-4/t10/10.js`)
 - 12. Publish, push and submit your links: ✔ completed, 3/3 test points
 
+### Python Flask server (20 / 20 points)
+
+- 1. Prime number service: ✔ completed, 1/1 test points (`flask/`)
+- 2. English-Finnish dictionary: ✔ completed, 1/1 test points (`flask/`)
+- 3. Add words to the dictionary: ✔ completed, 1/1 test points (`flask/`)
+
 <!-- metropolia:progress:end -->
